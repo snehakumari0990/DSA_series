@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/snehakumari0990/DSA_series/tree/master/1688-count-of-matches-in-tournament) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
