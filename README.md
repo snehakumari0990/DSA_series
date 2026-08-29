@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehakumari0990/DSA_series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/snehakumari0990/DSA_series/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehakumari0990/DSA_series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/snehakumari0990/DSA_series/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
