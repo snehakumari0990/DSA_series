@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0938-range-sum-of-bst) |
+## Math
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/snehakumari0990/DSA_series/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/snehakumari0990/DSA_series/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
