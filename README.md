@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehakumari0990/DSA_series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/snehakumari0990/DSA_series/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehakumari0990/DSA_series/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehakumari0990/DSA_series/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0938-range-sum-of-bst) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/snehakumari0990/DSA_series/tree/master/2351-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
