@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehakumari0990/DSA_series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/snehakumari0990/DSA_series/tree/master/0072-edit-distance) |
 | [0771-jewels-and-stones](https://github.com/snehakumari0990/DSA_series/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/snehakumari0990/DSA_series/tree/master/1143-longest-common-subsequence) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehakumari0990/DSA_series/tree/master/2351-first-letter-to-appear-twice) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/snehakumari0990/DSA_series/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/snehakumari0990/DSA_series/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
