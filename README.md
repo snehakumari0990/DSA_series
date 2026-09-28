@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/snehakumari0990/DSA_series/tree/master/0771-jewels-and-stones) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/snehakumari0990/DSA_series/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehakumari0990/DSA_series/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/snehakumari0990/DSA_series/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
