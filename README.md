@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehakumari0990/DSA_series/tree/master/0700-search-in-a-binary-search-tree) |
@@ -58,16 +59,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehakumari0990/DSA_series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehakumari0990/DSA_series/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -87,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/snehakumari0990/DSA_series/tree/master/1143-longest-common-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
