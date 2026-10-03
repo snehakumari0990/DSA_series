@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/snehakumari0990/DSA_series/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/snehakumari0990/DSA_series/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/snehakumari0990/DSA_series/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
