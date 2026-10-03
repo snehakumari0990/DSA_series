@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehakumari0990/DSA_series/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
