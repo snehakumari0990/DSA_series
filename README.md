@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/snehakumari0990/DSA_series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehakumari0990/DSA_series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/snehakumari0990/DSA_series/tree/master/1688-count-of-matches-in-tournament) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/snehakumari0990/DSA_series/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/snehakumari0990/DSA_series/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/snehakumari0990/DSA_series/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/snehakumari0990/DSA_series/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/snehakumari0990/DSA_series/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/snehakumari0990/DSA_series/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
