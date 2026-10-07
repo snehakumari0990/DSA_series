@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/snehakumari0990/DSA_series/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/snehakumari0990/DSA_series/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehakumari0990/DSA_series/tree/master/0518-coin-change-ii) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/snehakumari0990/DSA_series/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehakumari0990/DSA_series/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/snehakumari0990/DSA_series/tree/master/0072-edit-distance) |
+| [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehakumari0990/DSA_series/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/snehakumari0990/DSA_series/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -142,9 +144,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehakumari0990/DSA_series/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/snehakumari0990/DSA_series/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
