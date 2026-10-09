@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/snehakumari0990/DSA_series/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/snehakumari0990/DSA_series/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/snehakumari0990/DSA_series/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/snehakumari0990/DSA_series/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/snehakumari0990/DSA_series/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehakumari0990/DSA_series/tree/master/0518-coin-change-ii) |
+| [0875-koko-eating-bananas](https://github.com/snehakumari0990/DSA_series/tree/master/0875-koko-eating-bananas) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/snehakumari0990/DSA_series/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/snehakumari0990/DSA_series/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
